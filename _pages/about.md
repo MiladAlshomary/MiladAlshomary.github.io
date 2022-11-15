@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ai.uni-hannover.de/de/institut/arbeitsgruppen/nlp'>Leibniz Universität Hannover</a>. Institut for AI
+subtitle: Leibniz Universität Hannover. <a href='https://www.ai.uni-hannover.de/de/institut/arbeitsgruppen/nlp'> Institut for AI </a>
 
 profile:
   align: right
   image: milad_photo.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
-    <p>NLP Team at the AI Institut</p>
+    <p></p>
     <p>Appelstraße 9a</p>
     <p>30167 Hannover, Germany</p>
 

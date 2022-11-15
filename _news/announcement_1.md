@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-10-23
 inline: true
 ---
 
-A simple inline announcement.
+I recently participated in the "Towards a Unified Model of Scholarly Argumentation" Seminar at Dagtsuhl (<a href="https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=22432">link</a>)
