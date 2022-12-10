@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Leibniz Universität Hannover. <a href='https://www.ai.uni-hannover.de/de/institut/arbeitsgruppen/nlp'> Institut for AI </a>
 
