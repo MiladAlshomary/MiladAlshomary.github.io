@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-Welcome to my space. My name is Milad Alshomary. I am a Ph.D. student in the Institut of Artificial Intelligence at Leibniz University Hannover, under the supervision of Henning Wachsmuth. Before that, I studied computer science at Damascus University in Syria and finished my master's at Bauhaus University in Germany. 
+Welcome to my space. My name is Milad Alshomary. I am a Ph.D. student in the Institute of Artificial Intelligence at Leibniz University Hannover, under the supervision of Henning Wachsmuth. Before that, I studied computer science at Damascus University in Syria and finished my master's at Bauhaus University in Germany. 
 
 The focus of my research is in the realm of computational argumentation, where I study computational models of argument generation. My publications are on topics like the generation of argument conclusions and summaries, the generation of counter-arguments, and the tuning of argumentative content toward specific audiences. The ultimate goal of my thesis is to build debate technologies that bridge the gap between disagreeing parties. 
 
