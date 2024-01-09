@@ -9,9 +9,9 @@ profile:
   image: milad_photo.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p></p>
-    <p>Appelstraße 9a</p>
-    <p>30167 Hannover, Germany</p>
+    <p>Schapiro Center</p>
+    <p>530 W 120th St</p>
+    <p>New York, NY 10027</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
