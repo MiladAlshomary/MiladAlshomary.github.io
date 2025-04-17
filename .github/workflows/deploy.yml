@@ -43,8 +43,8 @@ jobs:
         fi
         echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
 
-    - name: Workaround (preload upload-artifact@v3)
-      uses: actions/upload-artifact@v3
+    - name: Workaround (preload upload-artifact@v4)
+      uses: actions/upload-artifact@v4
       with:
         name: dummy-artifact
         path: _config.yml
