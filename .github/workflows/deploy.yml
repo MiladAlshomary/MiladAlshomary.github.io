@@ -11,6 +11,11 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
+    - name: Workaround - preload upload-artifact@v3
+      uses: actions/upload-artifact@v3
+      with:
+        name: dummy-artifact
+        path: README.md  # or any file that always exists
     - name: Checkout code
       uses: actions/checkout@v3
 
