@@ -1,14 +1,11 @@
 ---
 layout: page
-title: Con­struct­ing Ex­plain­ab­il­ity
-description: Modeling the quality of dialogical explanations
-img: assets/img/3.jpg
+title: Modeling the Quality of Dialogical Explanations
+description: Collecting corpora for human explanation dialogues and modeling different aspects of explanation quality
+img: assets/img/trr_project_img.png
 importance: 2
 category: work
 ---
-
-
-### Constructing Explainability
 
 The Transregional Collaborative Research Centre 318 [“Constructing Explainability” (TRR 318)](https://trr318.uni-paderborn.de), a large interdisciplinary research initiative funded by the German Research Foundation (DFG), explores how people and AI systems can co-construct explanations together. TRR 318 brings together linguistics, computer science, psychology, sociology, media studies, and philosophy to study the mechanisms of explanation in human-machine interaction and to design AI systems that support transparent, user-centered explanatory processes. By investigating both theoretical foundations and practical methods for explanation, the project aims to empower users to better understand and critically engage with complex algorithmic systems.
 

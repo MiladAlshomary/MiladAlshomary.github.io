@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Human Interpretable Attribution of Text using Underlying Structure
-description: Analyzing authorial style in texts
-img: assets/img/12.jpg
+title: Explainability for Authorship Attribution Analysis
+description: Developing approaches and methods to explain the latent representations learned in authorship attribution models
+img: assets/img/aa_project_pic.jpg
 importance: 1
 category: work
 ---
 
-## Explainability for Authorship Attribution Analysis
 
 [The HIATUS program](https://www.iarpa.gov/research-programs/hiatus) aims to develop robust, multilingual systems that can identify stylistic signatures of authors while providing human-interpretable explanations of model decisions and preserving author anonymity where needed — addressing challenges such as combating information manipulation and protecting vulnerable writers through novel explainable AI and linguistic representation techniques.
 
