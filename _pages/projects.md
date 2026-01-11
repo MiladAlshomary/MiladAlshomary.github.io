@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A list of projects that I have been part of since my Ph.D. time
 nav: false
 nav_order: 2
-display_categories: [work, Phd]
+display_categories: [work]
 horizontal: false
 ---
 

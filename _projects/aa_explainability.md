@@ -2,7 +2,7 @@
 layout: page
 title: Explainability for Authorship Attribution Analysis
 description: Developing approaches and methods to explain the latent representations learned in authorship attribution models
-img: assets/img/aa_project_pic.jpg
+img: assets/img/aa_project_pic.png
 importance: 1
 category: work
 ---
