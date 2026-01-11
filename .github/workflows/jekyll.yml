@@ -42,7 +42,9 @@ jobs:
           cache-version: 0 # Increment this number if you need to re-download cached gems
       
       - name: Install Ruby gems
-        run: bundle install
+        run: |
+          bundle add faraday-retry
+          bundle install
 
       - name: Upgrade Bundler
         run: gem install bundler --no-document
