@@ -25,5 +25,5 @@ I earned my **PhD in Computer Science from Paderborn University** (July 2018 - D
 
 ### Demos
 
-- [LLMs as Science Journalists](https://arxiv.org/pdf/2601.05821)
+- [LLMs as Science Journalists](https://huggingface.co/spaces/miladalsh/communicating-science-to-the-public)
 - [IXAM: Interactive Explainability for Authorship Attribution Models](https://huggingface.co/spaces/miladalsh/interactive-explainability-for-aa-analysis)
