@@ -15,6 +15,7 @@ group :jekyll_plugins do
     gem 'jemoji'
     gem 'mini_racer'
     gem 'unicode_utils'
+    gem 'faraday-retry'
     gem 'webrick'
 end
 group :other_plugins do
