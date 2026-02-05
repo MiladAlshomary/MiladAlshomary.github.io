@@ -23,3 +23,7 @@ I am a postdoctoral research scientist at the <a href='https://datascience.colum
 I earned my **PhD in Computer Science from Paderborn University** (July 2018 - December 2023). My doctoral research, resulted in the dissertation titled <a href='https://digital.ub.uni-paderborn.de/hs/content/titleinfo/7498576'>“Audience-Aware Argument Generation,”</a> under the supervision of Professor Henning Wachsmuth, aimed to advance the effectiveness of argument generation by emphasizing the importance of relevance, consideration of the opponent's argument, and addressing the audience's interests. My current **postdoctoral research at Columbia University (January 2024 - Present)**, under the supervision of Professor Kathleen McKeown and Professor Smaranda Muresan, focuses on developing methods for authorship attribution, with a particular emphasis on making these models explainable. This work involves studying how humans explain in dialogues and interpreting latent spaces to understand what aspects of style authorship attribution models capture. Recentely, I joined a project to study how vision LLMs perform a formal analysis of the style of art pieces - a collaboration between computer scientists, science and technology studies (STS) scholars, art historians, and legal scholars.
 
 
+### Demos
+
+- [LLMs as Science Journalists](https://arxiv.org/pdf/2601.05821)
+- [IXAM: Interactive Explainability for Authorship Attribution Models](https://huggingface.co/spaces/miladalsh/interactive-explainability-for-aa-analysis)
